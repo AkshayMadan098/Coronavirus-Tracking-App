@@ -2,9 +2,8 @@
 #### Build a Coronavirus Tracking App
 
 
-<p align="center">
-  <h1> API Structure <h1/>
-</p>
+
+  <h1 align="center"> API Structure </h1>
 
 
   ![](Capture/pic1.PNG)
