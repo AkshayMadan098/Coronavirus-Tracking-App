@@ -1,7 +1,7 @@
 
 #### Build a Coronavirus Tracking App
 
-[Structure](Capture/pic1.png)
+![pic11](Capture/pic1.png)
 
 
 
