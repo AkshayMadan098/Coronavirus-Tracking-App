@@ -3,6 +3,11 @@
 
 
 
+  <h1 align="center"> API Structure </h1>
+
+
+  ![](Capture/pic1.PNG)
+
 
 
 For help getting started with Flutter, view our
